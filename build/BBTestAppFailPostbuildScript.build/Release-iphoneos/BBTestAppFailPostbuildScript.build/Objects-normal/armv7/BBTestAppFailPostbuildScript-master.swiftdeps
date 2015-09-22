@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "560bc6636599ed621c5fdf6da788d8e2"
+build_time: [496220404, 422324000]
+inputs: 
+	"/Users/chris/BB/BB/TestApps/BBTestAppFailPostbuildScript/BBTestAppFailPostbuildScript/ViewController.swift": [496218990, 0]
+	"/Users/chris/BB/BB/TestApps/BBTestAppFailPostbuildScript/BBTestAppFailPostbuildScript/AppDelegate.swift": [496218990, 0]
